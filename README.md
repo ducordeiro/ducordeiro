@@ -16,10 +16,10 @@ I also create content and share knowledge on *software development, SaaS, and te
 
 <p align="left">
   <a href="https://github.com/ducordeiro">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://github.com/ducordeiro" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="[https://instagram.com/oreidosites](https://www.instagram.com/du_jcordeiro/)">
+    <img src="https://[img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/du_jcordeiro/)" />
   </a>
   <a href="https://www.tiktok.com/@oreidosites">
     <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
