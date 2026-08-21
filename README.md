@@ -4,43 +4,25 @@
 🚀 **Junior developer and mechatronics engineering student.
  cStudying TypeScript, Python, and React.**  
 🇧🇷 Brazil
-
-I build *scalable products, **SaaS platforms, and **high-performance web systems*.  
-I’m deeply focused on *architecture, performance, clean code, and business-driven solutions*.
-
-I also create content and share knowledge on *software development, SaaS, and tech entrepreneurship*.
-
 ---
+[![Minhas Habilidades](https://skillicons.dev/icons?i=py,js,java,cpp,linux,c,html,css,react,aws,nodejs,git,cs,azure,mysql,angular)](https://skillicons.dev)
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/ducordeiro">
-    <img src="https://github.com/ducordeiro" />
-  </a>
-  <a href="[https://instagram.com/oreidosites](https://www.instagram.com/du_jcordeiro/)">
-    <img src="https://[img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/du_jcordeiro/)" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
 -   ⚡ Performance optimization
 -   🧩 Clean architecture & system design
 -   🔐 Secure APIs & authentication
 -   💳 Payments, subscriptions & business logic
 -   🤖 Automation & integrations
 -   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
 
 ---
 
