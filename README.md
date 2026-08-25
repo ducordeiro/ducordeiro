@@ -5,7 +5,8 @@
  cStudying TypeScript, Python, and React.**  
 🇧🇷 Brazil
 ---
-[![Minhas Habilidades](https://skillicons.dev/icons?i=py,js,java,cpp,linux,c,html,css,react,aws,nodejs,git,cs,azure,mysql,angular)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=py,js,java,html,css,react,nodejs,git,mysql)](https://skillicons.dev)
+
 
 ## 🌐 Where to find me
 
