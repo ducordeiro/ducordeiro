@@ -15,9 +15,6 @@ Studying TypeScript, Python, and React.**
   <a href="https://www.linkedin.com/in/eduardo-cordeiro-42560b371/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/du_jcordeiro/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
   <a href="mailto:ducordeiro08@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
