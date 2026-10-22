@@ -5,7 +5,7 @@
  cStudying TypeScript, Python, and React.**  
 🇧🇷 Brazil
 ---
-[![Minhas Habilidades](https://skillicons.dev/icons?i=py,js,java,html,css,react,nodejs,git,mysql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=py,ts,html,css,react,nodejs,git,mysql)](https://skillicons.dev)
 
 
 ## 🌐 Where to find me
@@ -15,15 +15,6 @@
 </p>
 
 ---
-
-## 🧠 What I do
-
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
 
 ---
 
@@ -73,6 +64,3 @@
 > It's about building solutions that scale, last, and generate real value."_
 
 ---
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
